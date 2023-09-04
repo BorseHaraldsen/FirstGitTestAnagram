@@ -26,7 +26,7 @@ public class AnagramGeneratorFour {
 
         boolean result2 = true;
 
-        //heisann hoppsann shdsjhd s
+        //heisann
 
         if (s1.length() != s3.length()) {
             result2 = false;
