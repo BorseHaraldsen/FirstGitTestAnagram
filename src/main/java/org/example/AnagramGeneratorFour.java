@@ -24,6 +24,7 @@ public class AnagramGeneratorFour {
             result1 = Arrays.equals(s1Ch, s2Ch);
         }
 
+        // YO YO YO
         boolean result2 = true;
 
         //heisann heisann heisann.
