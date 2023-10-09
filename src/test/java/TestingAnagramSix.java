@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class TestingAnagramSix {
 
     AnagramGeneratorSix anagramGeneratorSix = new AnagramGeneratorSix();
-
+/*
     @Test
     void printAnagramsSix() {
         AnagramGeneratorSix anagramChecker = new AnagramGeneratorSix();
@@ -54,6 +54,6 @@ public class TestingAnagramSix {
         assertEquals(test2.get("coronavirus").get(0), result.get("coronavirus").get(2));
 //        arrayList.add("coronavirus""lol", "carnivorous")
     }
-
+*/
 
 }

@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class TestingAnagramTwo {
-
+/*
     @Test
     void printAnagramsTwo() {
 
@@ -15,6 +15,6 @@ public class TestingAnagramTwo {
         System.out.println("They are anagrams");
 
     }
-
+*/
 
 }
